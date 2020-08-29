@@ -8,6 +8,8 @@
 <ul>
   <li>📖 Currently learning AWS, Go, Bioinformatics and Vue.js 3</li>
   <li>🌟 Fields I like the most: WEB 🖥, Mobile📱 and Machine Learning 🤖</li>
+  <li>⛳ I always like to learn new things</li>
+  <li>🎮 I started learning programming when I was 10 years old, developing mods for my private Tibia server</li>
   <li>🦖 Strongly support the Open Source movement</li>
 </ul>
 
