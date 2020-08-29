@@ -39,3 +39,5 @@
 <a href="https://br.linkedin.com/in/deliton-junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@delitonjr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+[![Deliton's github stats](https://github-readme-stats.vercel.app/api?username=deliton&theme=gruvbox)]
