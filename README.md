@@ -10,6 +10,14 @@
   <li>🌟 Fields I like the most: WEB 🖥, Mobile📱 and Machine Learning 🤖</li>
   <li>🦖 Strongly support the Open Source movement</li>
 </ul>
+
+<h3>Recent personal projects</h3>
+<ul>
+  <li>🛣️<a href="https://deliton.github.io/glory-astar/">Glory A* - React implementation of the A* algorithm</a></li>
+  <li>🌆<a href="https://deliton.github.io/neon-regex/">Neon Regex - A fancy neon-styled regexp testing app</a></li>
+  <li>🌌<a href="https://github.com/deliton/solar-j">Solar J - A visual implementation of the solar system</a></li>
+</ul>
+
 <h3>Some tools I use</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
