@@ -25,7 +25,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=white" /> 
 <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-1a1a1a?style=flat-square&logo=react&logoColor=white" /> 
-<img alt="npm" src="https://img.shields.io/badge/-NPM-1a1a1a?style=flat-square&logo=npm&logoColor=white" /> 
+<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=white" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white" /> 
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white" /> 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white" /> 
