@@ -22,38 +22,38 @@
 
 <h3>Some tools I use</h3>
 <p>
-<img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=white" /> 
-<img alt="React" src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=white" /> 
-<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-1a1a1a?style=flat-square&logo=react&logoColor=white" /> 
-<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=white" /> 
-<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white" /> 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white" /> 
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white" /> 
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white" /> 
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=white" /> 
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-1a1a1a?style=flat-square&logo=apollo-graphql&logoColor=white" /> 
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white" /> 
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=white" /> 
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white" /> 
-<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-1a1a1a?style=flat-square&logo=netlify&logoColor=white" /> 
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=white" /> 
-<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=white" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=white" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white" /> 
-<img alt="Golang" src="https://img.shields.io/badge/-Go-1a1a1a?style=flat-square&logo=go&logoColor=white" /> 
-<img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=white" /> 
-<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=white" /> 
-<img alt="Django" src="https://img.shields.io/badge/-Django-1a1a1a?style=flat-square&logo=django&logoColor=white" /> 
-<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white" /> 
+<img alt="git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=orange" /> 
+<img alt="React" src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=orange" /> 
+<img alt="React Native" src="https://img.shields.io/badge/-ReactNative-1a1a1a?style=flat-square&logo=react&logoColor=orange" /> 
+<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=orange" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=orange" /> 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=orange" /> 
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=orange" /> 
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=orange" /> 
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-1a1a1a?style=flat-square&logo=graphql&logoColor=orange" /> 
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-1a1a1a?style=flat-square&logo=apollo-graphql&logoColor=orange" /> 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=orange" /> 
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-1a1a1a?style=flat-square&logo=heroku&logoColor=orange" /> 
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=orange" /> 
+<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-1a1a1a?style=flat-square&logo=netlify&logoColor=orange" /> 
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=orange" /> 
+<img alt="Express" src="https://img.shields.io/badge/-Express-1a1a1a?style=flat-square&logo=express.js&logoColor=orange" /> 
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=orange" /> 
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=orange" /> 
+<img alt="Golang" src="https://img.shields.io/badge/-Go-1a1a1a?style=flat-square&logo=go&logoColor=orange" /> 
+<img alt="java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=java&logoColor=orange" /> 
+<img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=orange" /> 
+<img alt="Django" src="https://img.shields.io/badge/-Django-1a1a1a?style=flat-square&logo=django&logoColor=orange" /> 
+<img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=orange" /> 
 </p>
 
 <h3>Find me on</h3>
 <p>
-<a href="mailto:deliton.m@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=email&logoColor=white" /></a>
-<a href="https://www.instagram.com/delitonjunior"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/deliton.junior"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-<a href="https://br.linkedin.com/in/deliton-junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@delitonjr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:deliton.m@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>
+<a href="https://www.instagram.com/delitonjunior"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=orange" /></a>
+<a href="https://www.facebook.com/deliton.junior"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=orange" /></a> 
+<a href="https://br.linkedin.com/in/deliton-junior"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=orange" /></a>
+<a href="https://medium.com/@delitonjr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=orange" /></a>
 </p>
 
 [![Deliton's github stats](https://github-readme-stats.vercel.app/api?username=deliton&theme=gruvbox)]
