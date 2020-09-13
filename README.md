@@ -15,6 +15,7 @@
 
 <h3>Recent personal projects</h3>
 <ul>
+  <li>📦<a href="https://github.com/deliton/idt">IDT - A CLI tool that build entire image datasets in seconds!</a></li>
   <li>🛣️<a href="https://deliton.github.io/glory-astar/">Glory A* - React implementation of the A* algorithm</a></li>
   <li>🌆<a href="https://deliton.github.io/neon-regex/">Neon Regex - A fancy neon-styled regexp testing app</a></li>
   <li>🌌<a href="https://github.com/deliton/solar-j">Solar J - A visual implementation of the solar system</a></li>
@@ -56,4 +57,4 @@
 <a href="https://medium.com/@delitonjr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=orange" /></a>
 </p>
 
-[![Deliton's github stats](https://github-readme-stats.vercel.app/api?username=deliton&theme=gruvbox)]
+![Deliton's github stats](https://github-readme-stats.vercel.app/api?username=deliton&theme=gruvbox)
