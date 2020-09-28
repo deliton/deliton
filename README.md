@@ -15,6 +15,7 @@
 
 <h3>Recent personal projects</h3>
 <ul>
+  <li>🍀<a href="https://docs.zelda-api.apius.cc">Zelda API - RESTful API about The Legend of Zelda game franchise</a></li>
   <li>📦<a href="https://github.com/deliton/idt">IDT - A CLI tool that build entire image datasets in seconds!</a></li>
   <li>🛣️<a href="https://deliton.github.io/glory-astar/">Glory A* - React implementation of the A* algorithm</a></li>
   <li>🌆<a href="https://deliton.github.io/neon-regex/">Neon Regex - A fancy neon-styled regexp testing app</a></li>
