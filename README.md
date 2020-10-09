@@ -1,5 +1,7 @@
 <h1>Hi there 👋</h1>
 
+![](https://visitor-badge.glitch.me/badge?page_id=deliton.deliton)
+
 <p>I'm Deliton Junior, a web and app developer from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and welcome to my Github Page. I like to build cool stuff and solve real world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. I'm also super excited about the upcoming human missions on Mars 🚀</p>
 
 <img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/47995046/91627218-4fb24d80-e98c-11ea-8fb4-544b48de3045.gif" />
