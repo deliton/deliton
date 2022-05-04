@@ -1,23 +1,24 @@
 <h1>Hi there 👋</h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=deliton.deliton)
+![Deliton's Badge](https://visitor-badge.glitch.me/badge?page_id=deliton.deliton)
 
-<p>I'm Deliton Junior, a web and app developer from Brazil <img src="https://user-images.githubusercontent.com/47995046/91626906-6efbab80-e989-11ea-99ec-88424cd8b2db.png" width="16"/> and welcome to my Github Page. I like to build cool stuff and solve real world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. I'm also super excited about the upcoming human missions on Mars 🚀</p>
+<p>I'm Deliton Junior, a fullstack web and app developer currently living in Portugal and welcome to my Github Profile! I like to build cool stuff and solve real world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. I'm also super excited about the upcoming human missions on Mars 🚀</p>
 
-<img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/47995046/91627218-4fb24d80-e98c-11ea-8fb4-544b48de3045.gif" />
+<img align="right" height="300" width="400" style="width: 400px; height: 300px; object-fit: cover;" alt="GIF" src="https://user-images.githubusercontent.com/47995046/166671418-1e5f0125-81eb-4f45-bd5c-f152af03697b.gif" />
 
 <h3>Quick facts</h3>
 <ul>
-  <li>📖 Currently learning AWS, Go, Bioinformatics and Vue.js 3</li>
+  <li>📖 Currently learning DL, ML Ops, Go and Data Engineering </li>
   <li>🌟 Fields I like the most: WEB 🖥, Mobile📱 and Machine Learning 🤖</li>
-  <li>⛳ I always like to learn new things</li>
-  <li>🎮 I started learning programming when I was 10 years old, developing mods for my private Tibia server</li>
+  <li>⛳ I always excited to learn new things</li>
+  <li>🎮 My first interaction with programming happened I was 10 years old, developing mods for my private Tibia server (Otserver)</li>
   <li>🦖 Strongly support the Open Source movement</li>
 </ul>
 
 <h3>Recent personal projects</h3>
 <ul>
-  <li>🍀<a href="https://docs.zelda-api.apius.cc">Zelda API - RESTful API about The Legend of Zelda game franchise</a></li>
+  <li>🦾<a href="https://docs.eldenring.fanapis.com">Elden Ring API - Open source REST/GraphQL API about Elden Ring game</a></li>
+  <li>🍀<a href="https://docs.zelda.fanapis.com">Zelda API - Open source REST/GraphQL API about The Legend of Zelda game franchise</a></li>
   <li>📦<a href="https://github.com/deliton/idt">IDT - A CLI tool that build entire image datasets in seconds!</a></li>
   <li>🛣️<a href="https://deliton.github.io/glory-astar/">Glory A* - React implementation of the A* algorithm</a></li>
   <li>🌆<a href="https://deliton.github.io/neon-regex/">Neon Regex - A fancy neon-styled regexp testing app</a></li>
