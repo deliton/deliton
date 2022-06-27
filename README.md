@@ -8,7 +8,7 @@
 
 <h3>Quick facts</h3>
 <ul>
-  <li>📖 Currently learning DL, ML Ops, Go and Data Engineering </li>
+  <li>📖 Currently learning DL, ML Ops, Go and Data Science algorithms </li>
   <li>🌟 Fields I like the most: WEB 🖥, Mobile📱 and Machine Learning 🤖</li>
   <li>⛳ I always excited to learn new things</li>
   <li>🎮 My first interaction with programming happened I was 10 years old, developing mods for my private Tibia server (Otserver)</li>
