@@ -1,8 +1,6 @@
 <h1>Hi there 👋</h1>
 
-![Deliton's Badge](https://visitor-badge.glitch.me/badge?page_id=deliton.deliton&left_color=blue&right_color=blue)
-
-<p>I'm Deliton Junior, a fullstack web and app developer currently living in Portugal and welcome to my Github Profile! I like to build cool stuff and solve real world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. I'm also super excited about the upcoming human missions on Mars 🚀</p>
+<p>I'm Deliton Junior, a full-stack web and app developer currently living in Portugal, and welcome to my Github Profile! I like to build cool stuff and solve real-world problems. I hope that someday, I'll be able to do something meaningful and help the world for the better. I'm also super excited about the upcoming human missions on Mars 🚀</p>
 
 <img align="right" width="300" style="width: 400px;" alt="GIF" src="https://user-images.githubusercontent.com/47995046/231022633-261233b1-f6ea-4e01-b357-100218681b97.gif" />
 
